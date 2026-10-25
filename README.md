@@ -1,2 +1,2 @@
 # Shopify Website
-My secon website.
+My second website.
